@@ -24,7 +24,7 @@ div.container {
     margin-bottom : 25px;
 }
 
-div.section {
+section.section {
     font-size: 125%;
     border: 1px solid black;
     font-weight: bold;
