@@ -42,6 +42,7 @@ div #our-menu {
 #nav-list a{
     background-color: white;
     text-align: center;
+    border: 1px solid black;
 }
 
 #nav-list a:hover {
