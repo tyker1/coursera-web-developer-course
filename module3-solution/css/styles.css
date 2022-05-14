@@ -1,5 +1,7 @@
-* {
+body {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 #header-nav {
@@ -31,4 +33,21 @@ div #our-menu {
     margin-right: 5px;
     margin-bottom: 25px;
     padding : 5px;
+}
+
+#nav-list{
+    margin-top: 10px;
+}
+
+#nav-list a{
+    background-color: white;
+    text-align: center;
+}
+
+#nav-list a:hover {
+    background-color: lightblue;
+}
+
+#nav-list a:active {
+    background-color: lightblue;
 }
